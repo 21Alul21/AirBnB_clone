@@ -49,7 +49,7 @@ class BaseModel:
     def to_dict(self):
         """
         converts all attributes of a class instance to
-        to dictionaru, including the class name
+        to dictionary, including the class name
         """
         dictionary = self.__dict__.copy()
         dictionary["created_at"] = self.created_at.isoformat()
