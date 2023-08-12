@@ -43,8 +43,8 @@ class FileStorage:
         """
         if FileStorage.__file_path != None:
             try:
-                with open(FileStorage.__filepath, "w", encoding="utf-8") as file:
+                with open(FileStorage.__file_path, "w", encoding="utf-8") as file:
                     FileStorage.__objects = json.load(file)
             except Exception:
-                return
+                return None
         return
