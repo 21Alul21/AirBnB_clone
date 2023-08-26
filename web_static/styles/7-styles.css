@@ -1,0 +1,27 @@
+.places h1 {
+  font-size: 30px;
+}
+.places article {
+  width: 390px;
+  border: #ff5a5f solid 1px;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+.house {
+  float: right;
+  position: relative;
+  top: -148px;
+  clear: both;
+}
+
+.suite {
+  position: relative;
+  transform: translateX(60%);
+}
+
