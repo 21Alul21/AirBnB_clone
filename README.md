@@ -6,6 +6,7 @@ The goal of the project is to deploy on your server a simple copy of the AirBnB 
 We accomplish this in the following steps:
 
 | FrontEnd | HTML, CSS | 
+|----------|-----------|
 | Console | Cmd module(for CRUD Operations |  
 | BackEnd | Python (OOP concept) |
 | Storage | File system and MySQL |
