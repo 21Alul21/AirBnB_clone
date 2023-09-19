@@ -4,6 +4,7 @@ Description
 
 The goal of the project is to deploy on your server a simple copy of the AirBnB website (https://www.airbnb.com/)
 We accomplish this in 3 steps:
+
          |FrontEnd|HTML, CSS|
          |---------|--------| 
          |Console|Cmd module(for CRUD Operations|
