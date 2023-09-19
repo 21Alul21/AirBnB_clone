@@ -13,6 +13,6 @@ We accomplish this in the following steps:
 
 **Modules used:**
 - cmd
-- dateTime
+- datetime
 - uuid
 - json
