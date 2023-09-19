@@ -5,4 +5,5 @@ using
 - HTML
 - Python
 - CSS
-- SQL Lite(ORM)
+- SQL
+- MySQL
