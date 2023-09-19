@@ -12,7 +12,7 @@ We accomplish this in the following steps:
 | Storage | File system and MySQL |
 
 **Modules used:**
-cmd
-dateTime
-uuid
-json
+- cmd
+- dateTime
+- uuid
+- json
